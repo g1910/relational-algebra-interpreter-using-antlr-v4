@@ -14,11 +14,11 @@ A interpreter which takes relational algebra expression as input from the user, 
 
 On unzipping, the folder obtained 2012CSB1013_2012CSB1039 contains the following:
 
-1. **src** - folder containing the source for the java project
+1. **Rel_Al_Interpreter** - folder containing the associated java project
 
 2. **RelAlgebraInterpreter.jar** - runnable .jar file to run the project
 
-3. **README** - document containing instructions and other information
+3. **External_Libraries** - folder containing external jar dependencies 
 
 ###How to Run
 
